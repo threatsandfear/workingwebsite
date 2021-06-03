@@ -6,15 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-02T23:18:49-04:00"
+      "last_modified": "2021-06-02T23:28:48-04:00"
     },
     {
       "path": "index.html",
-      "title": "Threat & Fear",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Threats & Fear",
+      "description": "\"Whenever there is danger, there lurks opportunity; whenever there is opportunity, there lurks danger.\"\n",
       "author": [],
-      "contents": "\r\n#added something to test\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-02T23:18:50-04:00"
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-02T23:28:49-04:00"
     }
   ],
   "collections": []

@@ -3,7 +3,7 @@
     "path": "C:/Users/17063/OneDrive - University of Georgia/UGA new/Stat and Data Science/workingwebsite/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "4043067018",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1622688140757.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "15,0",
+        "cursorPosition": "3,105",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1622690373,
+    "lastKnownWriteTime": 1622690908,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1622690373545,
+    "last_content_update": 1622690908690,
     "read_only": false,
     "read_only_alternatives": []
 }
