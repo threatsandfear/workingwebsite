@@ -2,11 +2,11 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "Threats and Fear",
+      "description": "It has been more than a century since G. Stanley Hall published \"A Study of Fears\". But still we don't know that much about fear; how fear-relevant threats impact our survival and reporduction, the ways they affect our cognition, and how our interaction with those threats evolves. \nFor the first time in our species history, we have the opportunity to take a multidiciplinary approach to study fear-relevant and disgust-related dangers. Pulling data and ideas from neuroscience, psychology, economy, political sciences, and using different methods such as survey, experiment, big data, neuroimaging and agent-based modeling we can tackle fear and disgust with other emotions; surprise, confusion and curiosity!     ",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-02T23:28:48-04:00"
+      "last_modified": "2021-06-03T20:12:59-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "\"Whenever there is danger, there lurks opportunity; whenever there is opportunity, there lurks danger.\"\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-02T23:28:49-04:00"
+      "last_modified": "2021-06-03T20:13:00-04:00"
     }
   ],
   "collections": []
