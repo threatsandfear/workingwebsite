@@ -3,7 +3,7 @@
     "path": "C:/Users/17063/OneDrive - University of Georgia/UGA new/Stat and Data Science/workingwebsite/_site.yml",
     "project_path": "_site.yml",
     "type": "yaml",
-    "hash": "3884060535",
+    "hash": "1534541770",
     "contents": "",
     "dirty": false,
     "created": 1622688143095.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,23",
+        "cursorPosition": "12,43",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1622765549,
+    "lastKnownWriteTime": 1622766607,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1622765549982,
+    "last_content_update": 1622766607461,
     "read_only": false,
     "read_only_alternatives": []
 }
